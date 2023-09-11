@@ -22,6 +22,7 @@ class MyService : Service() {
         }
         if (intent!=null){
          val command = intent.getStringExtra(PLAYERCONSTANT)
+
         }
 
         else{
