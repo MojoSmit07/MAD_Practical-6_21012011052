@@ -35,13 +35,9 @@
             android:id="@+id/image1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="center"
             android:scaleType="fitXY"
-            android:src="@drawable/Unstoppable"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="@id/text1">
+            android:src="@drawable/unstoppable_poster" />
 
-        </ImageView>
     </com.google.android.material.card.MaterialCardView>
 
     <com.google.android.material.card.MaterialCardView
